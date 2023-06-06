@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1686067180 source:c:\users\2222135\onedrive - escola digital\psi\psi modulo 8 - projeto\luiz_araújo_prj_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<windows.h>
+	<locale.h>
+	<string.h>
+
